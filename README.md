@@ -1,2 +1,2 @@
 # Kalilinux-20.04-.bashrc
-.bashrc file from kalilinux enjoy
+.bashrc file from kali linux enjoy
